@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117211068603",
+    "firebase_url": "https://final-5f756.firebaseio.com",
+    "project_id": "final-5f756",
+    "storage_bucket": "final-5f756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117211068603:android:e51a8a3deb022c90",
+        "android_client_info": {
+          "package_name": "com.example.kushagra.finalshms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117211068603-rpbiloukmc38fruk7ve8j5hqerdnq8mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxlYJHdLvLz1BWi8zaKgEp7oMPweZJoHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117211068603-rpbiloukmc38fruk7ve8j5hqerdnq8mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

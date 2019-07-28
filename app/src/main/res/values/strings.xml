@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Smart Health Monitoring System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Account Settings</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_remove">Remove</string>
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I</string>
+    <string name="obese_class_ii">Obese Class II</string>
+    <string name="obese_class_iii">Obese Class III</string>
+    <string name="School_age_childer">9 to 11 Hours</string>
+    <string name="Teenagers">8 to 10 Hours</string>
+    <string name="Younger_Adults">7 to 9 Hours</string>
+    <string name="Adults">7 to 9 Hours</string>
+    <string name="Older_Adults">7 to 8 Hours</string>
+</resources>
