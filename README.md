@@ -9,6 +9,7 @@ Water Suggestion
 Database                  : Firebase
 Login and Authentication  : Firebase, Google
 Step Counter              : In-built Sensor
-# Screenshot:
-![Login_scr](https://user-images.githubusercontent.com/47265769/62009642-2ae31980-b17f-11e9-9ade-cbd7e7638349.jpg)
+# Screenshots:
+![Untitled design (19)](https://user-images.githubusercontent.com/47265769/62200093-57c34680-b3a2-11e9-82d3-6f91e81c77bb.png)
+
 
